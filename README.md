@@ -1,7 +1,3 @@
-Aqui está um modelo de arquivo README.md em Markdown para o seu projeto de banco de dados no GitHub. Este README é projetado para ser informativo e atraente para profissionais de tecnologia:
-
----
-
 # Projeto de Banco de Dados
 
 Bem-vindo ao repositório do **Projeto de Banco de Dados**! 🚀 Este projeto abrange três fases principais no design de um banco de dados, com o objetivo de criar um modelo robusto e eficiente para diferentes cenários. Abaixo, você encontrará detalhes sobre as fases do projeto e as entidades envolvidas.
