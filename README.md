@@ -116,7 +116,7 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões. Para isso, crie
 
 ## Contato
 
-Para qualquer dúvida ou sugestão, entre em contato pelo [seu e-mail ou outro meio de contato].
+Para qualquer dúvida ou sugestão, entre em contato pelo [vitorbeatle@gmail.com].
 
 ---
 
